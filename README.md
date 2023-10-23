@@ -3,7 +3,7 @@
 Bu proje, Tailwind CSS kullanarak oluşturulmuş basit bir film şablonunu içerir. Bu şablonu kullanarak film web siteleri veya benzeri projeler oluşturabilirsiniz.
 
 ![Resim Açıklaması](https://github.com/cenikfth/GegaTailwind/blob/master/src/images/Theme.jpg?raw=true)
-![Resim Açıklaması](resim-dosyasının-adresi)
+![Resim Açıklaması](https://github.com/cenikfth/GegaTailwind/blob/master/src/images/Theme1.png?raw=true)
 ## Nasıl Kullanılır
 
 Proje geliştirme sürecini başlatmak için aşağıdaki adımları takip edebilirsiniz:
