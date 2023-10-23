@@ -1,4 +1,3 @@
-# GegaTailwind
 # Movie Template with Tailwind CSS
 
 Bu proje, Tailwind CSS kullanarak oluşturulmuş basit bir film şablonunu içerir. Bu şablonu kullanarak film web siteleri veya benzeri projeler oluşturabilirsiniz.
