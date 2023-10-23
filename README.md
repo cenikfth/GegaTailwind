@@ -17,9 +17,10 @@ Live Server Eklentisi: Bu eklenti, kodunuzu canlı bir sunucuda hızlıca incele
 1. Projeyi bilgisayarınıza klonlayın:
 
    git clone https://github.com/cenikfth/GegaTailwind.git
+   
    cd GegaTailwind
    
-2. Gerekli bağımlılıkları yükleyin:
+3. Gerekli bağımlılıkları yükleyin:
   npm install
-3. Geliştirme sunucusunu başlatın:
+4. Geliştirme sunucusunu başlatın:
 npm run watch
