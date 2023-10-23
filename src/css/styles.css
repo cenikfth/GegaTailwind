@@ -900,6 +900,11 @@ a {
   padding-bottom: 4rem;
 }
 
+.px-5 {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
 .pb-16 {
   padding-bottom: 4rem;
 }
@@ -938,6 +943,10 @@ a {
 
 .pl-14 {
   padding-left: 3.5rem;
+}
+
+.pl-0 {
+  padding-left: 0px;
 }
 
 .text-center {
@@ -1166,6 +1175,10 @@ a {
     flex-basis: 33.333333%;
   }
 
+  .lg\:basis-1\/2 {
+    flex-basis: 50%;
+  }
+
   .lg\:flex-row {
     flex-direction: row;
   }
@@ -1209,6 +1222,11 @@ a {
   .lg\:py-12 {
     padding-top: 3rem;
     padding-bottom: 3rem;
+  }
+
+  .lg\:px-0 {
+    padding-left: 0px;
+    padding-right: 0px;
   }
 
   .lg\:pl-0 {
