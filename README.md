@@ -1,5 +1,5 @@
 # Movie Template with Tailwind CSS
-
+Canlı Demo :[Demo](https://gegatailwind.netlify.app/)
 Bu proje, Tailwind CSS kullanarak oluşturulmuş basit bir film şablonunu içerir. Bu şablonu kullanarak film web siteleri veya benzeri projeler oluşturabilirsiniz.
 
 ![Resim Açıklaması](https://github.com/cenikfth/GegaTailwind/blob/master/src/images/Theme.jpg?raw=true)
